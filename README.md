@@ -20,7 +20,7 @@ I spend most of my free time learning C++ nowadays.
 <table>
   <tr>
     <h3>Time Travel JokeWare</h3>
-    <p>I recreated the a time travel program I saw online in visual studio</p>
+    <p>I recreated a time travel program I saw online in Visual Studio 2005 on Windows XP.</p>
     <p>Accessible here: https://github.com/landjam/TimeTravel/tree/main</p>
   </tr>
   <tr>
